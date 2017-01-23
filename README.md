@@ -15,4 +15,4 @@ Results:
 ## CPP
 * 0.00122 seconds
 
-In This particular task, CPP is 90 times faster than Python, which is ~11 times faster than Ruby!
+In This particular task, CPP is 9 times faster than Python, which is ~11 times faster than Ruby!
